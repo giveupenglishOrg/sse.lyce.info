@@ -1,1 +1,10 @@
 #+TITLE: The Index of SSE
+* The Introduction
+TODO
+* The Anki Q&A
+TODO
+* The Cards
+-> [[https://github.com/giveupenglishOrg/sse.lyce.info/tree/06353ea260a2dc9d28b7ece507ab3bb715e4e9d3/images/TN_CARD][link]]
+* The Audio
+- [[https://github.com/giveupenglishOrg/sse.lyce.info/blob/06353ea260a2dc9d28b7ece507ab3bb715e4e9d3/18-a.rm][a.rm]]
+- [[https://github.com/giveupenglishOrg/sse.lyce.info/blob/06353ea260a2dc9d28b7ece507ab3bb715e4e9d3/18-b.rm][b.rm]]
