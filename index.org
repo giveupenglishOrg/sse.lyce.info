@@ -5,6 +5,9 @@ TODO
 TODO
 * The Cards
 -> [[https://github.com/giveupenglishOrg/sse.lyce.info/tree/06353ea260a2dc9d28b7ece507ab3bb715e4e9d3/images/TN_CARD][link]]
-* The Audio
+* The =.mp3= Audio
+- [[https://github.com/giveupenglishOrg/sse.lyce.info/blob/5fa56a212c31768e1bfe414037065d8315ebc962/18-a.mp3][a.mp3]]
+- [[https://github.com/giveupenglishOrg/sse.lyce.info/blob/5fa56a212c31768e1bfe414037065d8315ebc962/18-b.mp3][b.mp3]]
+* The Original Audio
 - [[https://github.com/giveupenglishOrg/sse.lyce.info/blob/06353ea260a2dc9d28b7ece507ab3bb715e4e9d3/18-a.rm][a.rm]]
 - [[https://github.com/giveupenglishOrg/sse.lyce.info/blob/06353ea260a2dc9d28b7ece507ab3bb715e4e9d3/18-b.rm][b.rm]]
