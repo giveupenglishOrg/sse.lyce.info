@@ -2,7 +2,7 @@
 * The Introduction
 TODO
 * The Anki Importing
-Download > [[https://github.com/giveupenglishOrg/sse.lyce.info/blob/gh-pages/attachments/anki.txt][link]]
+Download > [[https://github.com/giveupenglishOrg/sse.lyce.info/blob/gh-pages/attachments/anki.txt][anki.txt]]
 
 About Anki Importing > [[https://docs.ankiweb.net/importing.html][link]]
 * The Cards
