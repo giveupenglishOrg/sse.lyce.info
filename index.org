@@ -7,9 +7,14 @@ Download > [[https://github.com/giveupenglishOrg/sse.lyce.info/blob/gh-pages/att
 About Anki Importing > [[https://docs.ankiweb.net/importing.html][link]]
 * The Cards
 > [[https://github.com/giveupenglishOrg/sse.lyce.info/tree/06353ea260a2dc9d28b7ece507ab3bb715e4e9d3/images/TN_CARD][link]]
-* The =.mp3= Audio
-- [[https://github.com/giveupenglishOrg/sse.lyce.info/blob/5fa56a212c31768e1bfe414037065d8315ebc962/18-a.mp3][a.mp3]]
-- [[https://github.com/giveupenglishOrg/sse.lyce.info/blob/5fa56a212c31768e1bfe414037065d8315ebc962/18-b.mp3][b.mp3]]
+* The Audio
+#+BEGIN_EXPORT html
+<audio controls>
+  <source src="./audio.mp3" type="audio/mpeg">
+  <source src="./audio.ogg" type="audio/ogg">
+  <p>Your browser doesn't support HTML5 audio. Here is a <a href="./audio.mp3">link to the audio</a> instead.</p>
+</audio>
+#+END_EXPORT
+Download > [[https://github.com/giveupenglishOrg/sse.lyce.info/blob/071555d5370068bba34a7e5c806b2f9050ac4712/audio.mp3][audio.mp3]]
 * The Original Audio
-- [[https://github.com/giveupenglishOrg/sse.lyce.info/blob/06353ea260a2dc9d28b7ece507ab3bb715e4e9d3/18-a.rm][a.rm]]
-- [[https://github.com/giveupenglishOrg/sse.lyce.info/blob/06353ea260a2dc9d28b7ece507ab3bb715e4e9d3/18-b.rm][b.rm]]
+- [[https://github.com/giveupenglishOrg/sse.lyce.info/blob/06353ea260a2dc9d28b7ece507ab3bb715e4e9d3/18-b.rm][18-b.rm]]
