@@ -1,10 +1,12 @@
 #+TITLE: The Index of SSE
 * The Introduction
 TODO
-* The Anki Q&A
-TODO
+* The Anki Importing
+Download > [[https://github.com/giveupenglishOrg/sse.lyce.info/blob/gh-pages/attachments/anki.txt][link]]
+
+About Anki Importing > [[https://docs.ankiweb.net/importing.html][link]]
 * The Cards
--> [[https://github.com/giveupenglishOrg/sse.lyce.info/tree/06353ea260a2dc9d28b7ece507ab3bb715e4e9d3/images/TN_CARD][link]]
+> [[https://github.com/giveupenglishOrg/sse.lyce.info/tree/06353ea260a2dc9d28b7ece507ab3bb715e4e9d3/images/TN_CARD][link]]
 * The =.mp3= Audio
 - [[https://github.com/giveupenglishOrg/sse.lyce.info/blob/5fa56a212c31768e1bfe414037065d8315ebc962/18-a.mp3][a.mp3]]
 - [[https://github.com/giveupenglishOrg/sse.lyce.info/blob/5fa56a212c31768e1bfe414037065d8315ebc962/18-b.mp3][b.mp3]]
